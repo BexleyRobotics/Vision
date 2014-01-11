@@ -11,3 +11,4 @@ contours, hierarchy = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPR
                         cv2.circle(display, (x,y),5,blue,-1)
 			largest = max
 
+ 
