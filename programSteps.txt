@@ -1,0 +1,14 @@
+Sequence of events:
+	1. Take in Picture
+	2. Blur image
+	3. Filter out Color
+	4. Run object Detection
+	4.1 Find Ball
+	4.2 Find Opposing Robots
+	5. Find location of object
+	5.1 Track/Calc trajectory of object
+	5.1.1 Find point of interception
+	6. Port information of object to networkTable
+
+To DO:
+	1. 
